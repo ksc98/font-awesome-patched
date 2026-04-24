@@ -2,10 +2,6 @@
 
 A patched build of Font Awesome 7 Brands with the OpenAI (`U+E7CF`) and Claude (`U+E861`) glyphs scaled up so they read clearly at small sizes (e.g. status bars, terminal UI).
 
-## File
-
-- `fa-brands-patched.otf` — internal name `Font Awesome 7 Brands Tmux`. Drop-in for any place you'd use `Font Awesome 7 Brands`.
-
 ## Install
 
 macOS:
