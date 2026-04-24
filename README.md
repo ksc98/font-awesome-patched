@@ -2,6 +2,8 @@
 
 A patched build of Font Awesome 7 Brands with the OpenAI (`U+E7CF`) and Claude (`U+E861`) glyphs scaled up so they read clearly at small sizes (e.g. status bars, terminal UI).
 
+PostScript family: `Font Awesome 7 Brands Patched`.
+
 ## Install
 
 macOS:
